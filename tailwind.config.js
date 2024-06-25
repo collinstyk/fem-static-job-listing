@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "header-desktop": "url('./src/images/bg-header-desktop.svg')",
-        "header-mobile": "url('./src/images/bg-header-mobile.svg')",
+        "header-desktop": "url('/images/bg-header-desktop.svg')",
+        "header-mobile": "url('/images/bg-header-mobile.svg')",
       },
       backgroundColor: {
         "bg-light-grayish-cyan": "hsl(180, 52%, 96%)",
