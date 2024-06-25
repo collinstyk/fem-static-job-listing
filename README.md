@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click to view solution](https://your-solution-url.com)
-- Live Site URL: [Click to view live site](https://your-live-site-url.com)
+- Solution URL: [Click to view solution](https://github.com/collinstyk/fem-static-job-listing)
+- Live Site URL: [Click to view live site](https://fem-static-job-listing.onrender.com/)
 
 ## My process
 
