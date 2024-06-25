@@ -9,7 +9,7 @@ export default defineConfig({
       targets: [
         {
           src: "src/images", // Path to your images folder
-          dest: "assets", // Destination folder in the build output
+          dest: "", // Destination folder in the build output
         },
       ],
     }),
